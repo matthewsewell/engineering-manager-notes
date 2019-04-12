@@ -19,3 +19,38 @@ You may report to me, but a lot of my job is to serve you. I'm not as successful
 - **As someone who holds us all accountable**. This is really about focus and making sure that the wheels stay on the cart.
 - **As an example**. I will strive to be open, conscientious and focused. I will also fail at this from time to time but I will persevere in this.
 
+
+## What I value most
+
+I value conscientious action. I will elaborate a little more on this in the section about what I expect from you.
+
+
+## What you can expect from me
+
+I believe that the old maxim that “respect is earned, not given” is toxic. Respect can be earned back if it is lost, but the default human condition should be to respect others regardless of ethnicity, national origin, religion or lack thereof, sexual orientation, gender identity, age, physical characteristics or anything else  that is used to separate us -- just by virtue of being human. You can and should expect that I will show respect for you -- that I will do everything I can to ensure that you are in a respectful and safe environment. That respect manifests in the following ways:
+- **I will listen to your ideas**, even if they are as bad as some of mine are.
+- **I will work to ensure you have the tools to do your job**.
+- **I will not micromanage you**.
+- **I will be honest with you**.
+- **I will always endeavor to help you succeed**.
+
+
+## Personality quirks
+
+I have really bad imposter syndrome. I know this and I’m working on it. This can make me a little defensive or self-critical sometimes but I get over it quickly. I pace a lot, too. It helps me think. I am also still very technical and have an obsessive need to code.
+
+
+## What I expect from you
+
+Conscientious action is what respect looks like in the wild.  I expect you to be respectful of those on your team, those on other teams, our users, our potential users...I think you get the picture. What do some of those actions look like?
+- **Never throw a teammate under the bus**. They need to trust you and you need to trust them. If you have a disagreement, discreetly talk to them. If that doesn’t work, both of you should discreetly talk to me together.
+- **You represent your team** to the rest of the world. Don’t make us look bad. Foster respect and good will among other teams and users.
+- **Be on time**. Don’t mismanage your time at the expense of others.
+- **Be transparent**. If you are struggling with anything, even if you are having personal issues, I need to be aware of how this might impact your work so I can plan around it. There is no danger in over-communicating but a lack of communication raises a lot of red flags for me.
+- **Challenge me**. If I’m on the wrong path, I need to know it.
+- **Treat the production environment as a holy thing**. Our users need to trust the systems we create. Don’t ship broken code in order to meet a deadline. If you find a bug in production, take ownership of it by fixing it and/or filing a ticket.
+- **Speak up**. Your opinions matter.
+- **Take chances and try new things**. In tech, complacency is death.
+- **Maintain a healthy work/life balance**. The idea that you have to work 60+ hour weeks in tech is misguided. Working more hours just becomes a justification to be less efficient. I would much prefer you are sharp and focussed 35 hours a week than a zombie that works 70 hours a week.
+- **Actively practice empathy**. A little goes a long way.
+- **Ceremony is essential to community**. Even if you don’t feel you are benefitting from daily standups, know that the team benefits for all of us participating. Show up for your community.
