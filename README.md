@@ -1,6 +1,6 @@
 # Hello World. I'm matthew...
 
-If you just joined my team or if you have been working with me for a while, this README document will serve as a guide to understanding how I think about software, engineering, management, relationships and being human. Of course, If you've been working with me for a while, you've probably already picked up on a lot of this stuff but I think it's important to know where I'mcoming from and what it  actually is that I expect from you and from myself. If anything in this document is unclear, please let me know. It is, like life, a work in progress.
+If you just joined my team or if you have been working with me for a while, this README document will serve as a guide to understanding how I think about software, engineering, management, relationships and being human. Of course, If you've been working with me for a while, you've probably already picked up on a lot of this stuff but I think it's important to know where I'm coming from and what it  actually is that I expect from you and from myself. If anything in this document is unclear, please let me know. It is, like life, a work in progress.
 
 
 ## Motivation for this document
