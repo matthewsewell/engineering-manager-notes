@@ -54,3 +54,21 @@ Conscientious action is what respect looks like in the wild.  I expect you to be
 - **Maintain a healthy work/life balance**. The idea that you have to work 60+ hour weeks in tech is misguided. Working more hours just becomes a justification to be less efficient. I would much prefer you are sharp and focussed 35 hours a week than a zombie that works 70 hours a week.
 - **Actively practice empathy**. A little goes a long way.
 - **Ceremony is essential to community**. Even if you don’t feel you are benefitting from daily standups, know that the team benefits for all of us participating. Show up for your community.
+ 
+
+## 1:1s
+
+I value my time with you one-on-one very much. I schedule these meetings for a half-hour every week but I make sure to not schedule anything else after it so we can take an hour if we need to. In general, I like to do one-on-ones at the end of the week so I can think about them over the weekend. If you need to talk to me this way at other times throughout the week in addition to that, just let me know.
+
+I prefer these meetings to be in person if possible and minimally in a video chat. I like to see your face.
+
+This is your time. I will ask you about your week and what sorts of things I can help you with, but you can bring up anything you want to bring up. If  we go off topic and talk about philosophy or My Little Pony, that’s completely OK.
+
+
+## After hours communication
+
+I don’t work weekends or after-hours unless I’m up against a challenging deadline or have some emergency. **I don’t expect you to** either.
+
+If there is an emergency, by all means, call me. 
+
+If you send me any email over the weekend or after 6 pm, I probably won’t see it. If I send you one, I don’t expect you to read it. Same for slack.
