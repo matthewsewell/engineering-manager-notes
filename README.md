@@ -61,9 +61,9 @@ Conscientious action is what respect looks like in the wild.  I expect you to be
 
 ## What can get you fired
 
-- **Duplicity, deception, or otherwise having your pants on fire** Don't lie to me, your team, our customers, or yourself.
-- **Damaging the team** We must be able to trust each other.
-- **Damaging the product** We're relying on you to make the product better -- not worse. We all make mistakes, and that's OK. Just don't be willfull or apathetic about it.
+- **Duplicity, deception, or otherwise having your pants on fire.** Don't lie to me, your team, our customers, or yourself.
+- **Damaging the team.** We must be able to trust each other.
+- **Damaging the product.** We're relying on you to make the product better -- not worse. We all make mistakes, and that's OK. Just don't be willfull or apathetic about it.
 
 ## 1:1s
 
