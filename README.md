@@ -1,5 +1,7 @@
 # Hello World. I'm matthew...
 
+My personal pronouns are he/him/his.
+
 If you just joined my team or if you have been working with me for a while, this README document will serve as a guide to understanding how I think about software, engineering, management, relationships and being human. Of course, If you've been working with me for a while, you've probably already picked up on a lot of this stuff but I think it's important to know where I'm coming from and what it  actually is that I expect from you and from myself. If anything in this document is unclear, please let me know. It is, like life, a work in progress.
 
 
@@ -39,6 +41,8 @@ I believe that the old maxim that “respect is earned, not given” is toxic. R
 
 I have really bad imposter syndrome. I know this and I’m working on it. This can make me a little defensive or self-critical sometimes but I get over it quickly. I pace a lot, too. It helps me think. I am also still very technical and have an obsessive need to code.
 
+I also am really bad at calendars. If I set a meeting with you but forget to invite you to it, don't take it personally. It just means I was sitting alone in an empty video chat for a while before I caught on.
+
 
 ## What I expect from you
 
@@ -54,15 +58,20 @@ Conscientious action is what respect looks like in the wild.  I expect you to be
 - **Maintain a healthy work/life balance**. The idea that you have to work 60+ hour weeks in tech is misguided. Working more hours just becomes a justification to be less efficient. I would much prefer you are sharp and focussed 35 hours a week than a zombie that works 70 hours a week.
 - **Actively practice empathy**. A little goes a long way.
 - **Ceremony is essential to community**. Even if you don’t feel you are benefitting from daily standups, know that the team benefits for all of us participating. Show up for your community.
- 
+
+## What can get you fired
+
+- **Duplicity, deception, or otherwise having your pants on fire** Don't lie to me, your team, our customers, or yourself.
+- **Damaging the team** We must be able to trust each other.
+- **Damaging the product** We're relying on you to make the product better -- not worse. We all make mistakes, and that's OK. Just don't be willfull or apathetic about it.
 
 ## 1:1s
 
-I value my time with you one-on-one very much. I schedule these meetings for a half-hour every week but I make sure to not schedule anything else after it so we can take an hour if we need to. In general, I like to do one-on-ones at the end of the week so I can think about them over the weekend. If you need to talk to me this way at other times throughout the week in addition to that, just let me know.
+I value my time with you one-on-one very much. I schedule these meetings for a half-hour every week but I make sure to not schedule anything else after it so we can take an hour if we need to. In general, I like to do one-on-ones at the end of the week if possible so I can think about them over the weekend. If you need to talk to me this way at other times throughout the week in addition to that, just let me know.
 
 I prefer these meetings to be in person if possible and minimally in a video chat. I like to see your face.
 
-This is your time. I will ask you about your week and what sorts of things I can help you with, but you can bring up anything you want to bring up. If  we go off topic and talk about philosophy or My Little Pony, that’s completely OK.
+This is your time. I will ask you about your week and what sorts of things I can help you with, but you can bring up anything you want to bring up. If we go off topic and talk about philosophy or My Little Pony, that’s completely OK.
 
 
 ## After hours communication
